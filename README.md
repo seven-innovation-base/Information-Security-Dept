@@ -1,5 +1,7 @@
 # 2019-信息安全部
 
+![](https://raw.githubusercontent.com/seven-innovation-base/picture/master/InformationSecurity.jpg)
+
 信息安全部研究范围较广，主要涉及木马编程、网络渗透、逆向工程、代码审计、密码学及社会工程学等方向。部门不同方向的成员可以通过相互组队，参加各大CTF夺旗赛及信息安全比赛。
 
 木马编程：木马编程主要学习C/C++、Windows编程及MFC等，打好编程基础后学习Socket编程、 DLL动态调用，尝试去写键盘记录等程序，再添加文件管理、视频监控、音频控制等功能，最后解决自启动、过UAC、免杀等问题，最终开发出一款成熟的远控。
