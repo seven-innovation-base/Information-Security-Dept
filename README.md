@@ -221,7 +221,7 @@ php、html、css、js；
 |**github**|
 |百度、Google搜索 |
 |论坛搜索、微信搜索(公众号文章)、知识星球|
-|bilibili、yutube|
+|bilibili、youtube|
 |书籍|
 |请教他人(提问的艺术)|
 |...|
