@@ -1,4 +1,4 @@
-# 2021-信息安全部
+# 信息安全部
 
 ![](https://raw.githubusercontent.com/seven-innovation-base/picture/master/InformationSecurity.jpg)
 
